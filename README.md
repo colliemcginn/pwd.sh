@@ -1,6 +1,7 @@
 # pwd.sh
 
 Script to manage passwords in an encrypted file using gpg.
+Colm McGinn.
 
 ![screencast gif](https://i.imgur.com/sQoF3VN.gif)
 
